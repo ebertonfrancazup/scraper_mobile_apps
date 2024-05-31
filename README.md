@@ -1,4 +1,4 @@
-# cx_insights_agent_poc
+# scraper_mobile_apps
 Agente de SW 3.0 para análise e insights sobre a opinião de usuarios do VivoEasy na Google Play e App Store
 
 
